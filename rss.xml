@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[uv10]]></title>
-        <description><![CDATA[uv10]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[International Investments]]></title>
+        <description><![CDATA[International Investments]]></description>
+        <link>https://thegrid.ai/uv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 19 Dec 2015 20:52:02 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 19 Dec 2015 21:12:29 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/uv/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Bitcoin Investment Guide]]></title>
+            <description><![CDATA[<article><h1>Bitcoin Investment Guide</h1><p>With more and more of the world's leading retailers and banks already using Bitcoin, now is the time to invest. When it comes to future profits, the sky really is the limit! If you had purchased $500 worth of Bitcoins at the end of 2011, you would have made a profit of $23,500 by the end of 2015.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/3bdddc0104f6fb7ca751ef4d81818661b36afe23.jpg"></article>]]></description>
+            <link>http://www.uv10.com/property/bitcoin-investment-guide/</link>
+            <guid isPermaLink="false">d41b0a29-e07e-47ef-9b68-2b25132ba715</guid>
+            <pubDate>Sat, 19 Dec 2015 21:12:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[About Us]]></title>
-            <description><![CDATA[<h1>About Us</h1>]]></description>
-            <link>undefinedabout-us/index.html</link>
+            <description><![CDATA[<article><h1>About Us</h1><p>Cutting edge investments and superior holiday homes</p></article>]]></description>
+            <link>https://thegrid.ai/uv/about-us/index.html</link>
             <guid isPermaLink="false">5b75cdd7-4195-4644-93e7-11301908805d</guid>
             <pubDate>Sat, 19 Dec 2015 20:52:02 GMT</pubDate>
         </item>
