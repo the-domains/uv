@@ -1,0 +1,18 @@
+analytics: {}
+color:
+  brandColors:
+    - '#000000'
+    - '#00A880'
+    - '#000000'
+    - '#30A8E0'
+    - '#68B8E0'
+  brandStrength: 0.694522
+  lightness: 0.588422
+  rhythmicContrast: 0.072681
+  saturation: 0.825033
+cta: {}
+layout_spectrum: 0.584459
+name: uv10
+opengraph: {}
+purpose: {}
+typography_spectrum: 0.815878
