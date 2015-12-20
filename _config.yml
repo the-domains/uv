@@ -1,6 +1,6 @@
 name: uv10
 favicon: null
-layout_spectrum: 0.50989
+layout_spectrum: 0.65661
 typography_spectrum: 1
 title: uv10 Investments
 cta:
@@ -22,10 +22,10 @@ color:
     - '#000000'
     - '#30A8E0'
     - '#68B8E0'
-  brandStrength: 0
-  lightness: 0.5
-  saturation: 0
-  rhythmicContrast: 0.25
+  brandStrength: 0.3125
+  lightness: 0.1875
+  saturation: 0.3125
+  rhythmicContrast: 0.75
 purpose:
   - name: null
     item: null
