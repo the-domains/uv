@@ -22,10 +22,10 @@ color:
     - '#000000'
     - '#30A8E0'
     - '#68B8E0'
-  brandStrength: 0.375
+  brandStrength: 0
   lightness: 0.5
-  saturation: 0.25
-  rhythmicContrast: 0.5
+  saturation: 0
+  rhythmicContrast: 0.25
 purpose:
   - name: null
     item: null
