@@ -1,32 +1,19 @@
-name: uv10
-favicon: null
-layout_spectrum: 0.65661
-typography_spectrum: 1
-title: uv10 Investments
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors:
     - '#000000'
-    - '#00A880'
-    - '#000000'
-    - '#30A8E0'
-    - '#68B8E0'
-  brandStrength: 0.3125
-  lightness: 0.1875
-  saturation: 0.3125
-  rhythmicContrast: 0.75
+    - '#7A4B0B'
+    - '#68A8A0'
+    - '#F0B058'
+    - '#90D0E0'
+  brandStrength: 0.5
+  lightness: 0.506756
+  rhythmicContrast: 0.491554
+  saturation: 0.8125
+cta: {}
+layout_spectrum: 0.65661
+name: uv10
+opengraph: {}
 purpose:
-  - name: null
-    item: null
-    url: null
+  - {}
+typography_spectrum: 1
