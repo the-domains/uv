@@ -6,10 +6,10 @@ color:
     - '#487088'
     - '#70A0D0'
     - '#A0C0D8'
-  brandStrength: 0.287162
+  brandStrength: 0.342905
   lightness: 0.319256
   rhythmicContrast: 0.491554
-  saturation: 0.256756
+  saturation: 0.792229
 cta: {}
 layout_spectrum: 0.261824
 name: uv10
