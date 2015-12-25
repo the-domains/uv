@@ -1,15 +1,15 @@
 analytics: {}
 color:
   brandColors:
-    - '#000000'
-    - '#7A4B0B'
-    - '#68A8A0'
-    - '#F0B058'
-    - '#90D0E0'
-  brandStrength: 0.5
-  lightness: 0.506756
+    - '#B0B8A8'
+    - '#214264'
+    - '#487088'
+    - '#70A0D0'
+    - '#A0C0D8'
+  brandStrength: 0.287162
+  lightness: 0.319256
   rhythmicContrast: 0.491554
-  saturation: 0.8125
+  saturation: 0.256756
 cta: {}
 layout_spectrum: 0.261824
 name: uv10
