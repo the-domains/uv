@@ -1,11 +1,11 @@
 analytics: {}
 color:
   brandColors:
-    - '#B0B8A8'
-    - '#214264'
-    - '#487088'
-    - '#70A0D0'
-    - '#A0C0D8'
+    - '#000000'
+    - '#00A880'
+    - '#000000'
+    - '#30A8E0'
+    - '#68B8E0'
   brandStrength: 0.342905
   lightness: 0.319256
   rhythmicContrast: 0.491554
