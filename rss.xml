@@ -1,15 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[uv10 Investments]]></title>
-        <description><![CDATA[uv10 Investments]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[uv10]]></title>
+        <description><![CDATA[uv10]]></description>
+        <link>https://thegrid.ai/uv/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 20 Dec 2015 10:07:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 11 Jan 2016 08:55:19 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/uv/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/445db26d-6265-44a1-8a40-890211375cb5.jpg">]]></description>
+            <link>https://thegrid.ai/uv/5a917286-2a32-41ee-bebe-dc430dcdb7b6/index.html</link>
+            <guid isPermaLink="false">5a917286-2a32-41ee-bebe-dc430dcdb7b6</guid>
+            <pubDate>Mon, 11 Jan 2016 08:54:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Bitcoin – invest today in the currency of the future ]]></title>
             <description><![CDATA[<article><h1>Bitcoin – invest today in the currency of the future </h1><p>Bitcoin investment guide</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1c2250f9e10cfe3a9a1c7aaf1dc1ca1c5cdc1621.jpg"></article>]]></description>
-            <link>undefinedbitcoin-invest-today-in-the-currency-of-the-future/index.html</link>
+            <link>https://thegrid.ai/uv/bitcoin-invest-today-in-the-currency-of-the-future/index.html</link>
             <guid isPermaLink="false">d5b47248-34ac-465a-b483-25c0bdd962bc</guid>
             <pubDate>Sun, 20 Dec 2015 10:07:12 GMT</pubDate>
         </item>
