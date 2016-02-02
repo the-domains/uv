@@ -1,4 +1,19 @@
-analytics: {}
+name: uv10
+favicon: null
+layout_spectrum: 0.94853
+typography_spectrum: 1
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
   brandColors:
     - '#000000'
@@ -8,12 +23,9 @@ color:
     - '#68B8E0'
   brandStrength: 0.138513
   lightness: 0.319256
-  rhythmicContrast: 0.491554
   saturation: 0.501689
-cta: {}
-layout_spectrum: 0.261824
-name: uv10
-opengraph: {}
+  rhythmicContrast: 0.491554
 purpose:
-  - {}
-typography_spectrum: 1
+  - name: null
+    item: null
+    url: null
